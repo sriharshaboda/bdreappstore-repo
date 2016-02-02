@@ -6,25 +6,25 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 1",
     "name": "Next Best Offer",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 1",
     "name": "Universal Persona",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 1",
     "name": "Reputation Management",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }]
 }, {
   "name": "Telecom",
@@ -34,13 +34,13 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 2",
     "name": "Bandwidth Throttling",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }]
 }, {
   "name": "Insurance",
@@ -50,19 +50,19 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "bb06b1eec9c8",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 3",
     "name": "NPS Survey Analytics",
     "description": "This application is about ",
     "id": "92973f4cfbfc",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 3",
     "name": "Regulatory Compliance",
     "description": "This application is about ",
     "id": "b06bbb86d278",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }]
 }, {
   "name": "Retail",
@@ -72,13 +72,13 @@
     "name": "Store Labor Optimization",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 2",
     "name": "Weather Impact",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }]
 }, {
   "name": "Heathcare",
@@ -88,13 +88,13 @@
     "name": "Revenue Leakage",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 2",
     "name": "Pricing Optimization",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }]
 }, {
   "name": "Energy & Utilities",
@@ -104,13 +104,13 @@
     "name": "HR Optimization",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }, {
     "category": "Category 2",
     "name": "Voltage Optimization",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "../css/images/analytics-720x400.png"
+    "icon": "../css/images/analytic.jpg"
   }]
 }
 
