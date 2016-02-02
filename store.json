@@ -1,0 +1,117 @@
+[{
+  "name": "Banking",
+  "id": "banking",
+  "columns": [{
+    "category": "Category 1",
+    "name": "Customer Attrition",
+    "description": "This application is about ",
+    "id": "46701a72410c",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 1",
+    "name": "Next Best Offer",
+    "description": "This application is about ",
+    "id": "46701a72410c",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 1",
+    "name": "Universal Persona",
+    "description": "This application is about ",
+    "id": "46701a72410c",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 1",
+    "name": "Reputation Management",
+    "description": "This application is about ",
+    "id": "46701a72410c",
+    "icon": "../css/images/analytics-720x400.png"
+  }]
+}, {
+  "name": "Telecom",
+  "id": "telecom",
+  "columns": [{
+    "category": "Category 2",
+    "name": "Customer Attrition",
+    "description": "This application is about ",
+    "id": "9a18ffe9f148",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 2",
+    "name": "Bandwidth Throttling",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "../css/images/analytics-720x400.png"
+  }]
+}, {
+  "name": "Insurance",
+  "id": "insurance",
+  "columns": [{
+    "category": "Category 3",
+    "name": "Customer Attrition",
+    "description": "This application is about ",
+    "id": "bb06b1eec9c8",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 3",
+    "name": "NPS Survey Analytics",
+    "description": "This application is about ",
+    "id": "92973f4cfbfc",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 3",
+    "name": "Regulatory Compliance",
+    "description": "This application is about ",
+    "id": "b06bbb86d278",
+    "icon": "../css/images/analytics-720x400.png"
+  }]
+}, {
+  "name": "Retail",
+  "id": "retail",
+  "columns": [{
+    "category": "Category 2",
+    "name": "Store Labor Optimization",
+    "description": "This application is about ",
+    "id": "9a18ffe9f148",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 2",
+    "name": "Weather Impact",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "../css/images/analytics-720x400.png"
+  }]
+}, {
+  "name": "Heathcare",
+  "id": "hc",
+  "columns": [{
+    "category": "Category 2",
+    "name": "Revenue Leakage",
+    "description": "This application is about ",
+    "id": "9a18ffe9f148",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 2",
+    "name": "Pricing Optimization",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "../css/images/analytics-720x400.png"
+  }]
+}, {
+  "name": "Energy & Utilities",
+  "id": "enu",
+  "columns": [{
+    "category": "Category 2",
+    "name": "HR Optimization",
+    "description": "This application is about ",
+    "id": "9a18ffe9f148",
+    "icon": "../css/images/analytics-720x400.png"
+  }, {
+    "category": "Category 2",
+    "name": "Voltage Optimization",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "../css/images/analytics-720x400.png"
+  }]
+}
+
+]
